@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidfz370
 - 👀 I’m interested in ... fullstack development.
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...fun projects
 - 📫 How to reach me ... email: davidafabian215@gmail.com
 
 <!---
