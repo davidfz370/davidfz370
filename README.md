@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David (@davidfz370)
+- 👋 Hi, I’m David Fabian(@davidfz370)
 - 👀 I’m interested in ... fullstack development.
 - 🌱 I’m currently learning ... Java, Angular, Spring, and PostgreSQL
 - 💞️ I’m looking to collaborate on ...fun projects.
