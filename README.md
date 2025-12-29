@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David Fabian(@davidfz370)
-- 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning Java, Angular, Spring, and PostgreSQL
-- 💞️ I’m looking to collaborate on fun projects.
+- 👀 I’m interested in data science/analytics.
+- 💞️ I’m looking for positions in data science and analytics.
 - 📫 How to reach me email: davidafabian215@gmail.com
 
 <!---
